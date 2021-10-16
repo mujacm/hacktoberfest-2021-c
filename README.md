@@ -1,6 +1,6 @@
 # HackNight 2.0 - MUJ ACM Virtual Hacktoberfest Meetup
 
-![MUJ ACM HackNight 2.0](https://github.com/mujacm/Python/blob/main/Images/mujacmvirtualmeetup.jpg)
+![MUJ ACM HackNight 2.0](https://i.ibb.co/TL0sq9G/Whats-App-Image-2021-10-16-at-15-29-37.jpg)
 
 ## Contribution Guidelines
 
