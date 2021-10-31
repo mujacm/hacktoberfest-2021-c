@@ -5,8 +5,8 @@
  
 int main() {
     char str[100];
-     char d;
-     char rtr[10];
+     char d;//define Variable
+     char rtr[10];//define Array
      scanf("%c",&d);
      printf("%c\n",d);
      scanf("%s",&rtr);
